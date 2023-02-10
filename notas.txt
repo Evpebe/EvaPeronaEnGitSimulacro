@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 NOM ASSIG NOTA
-=======
 NOM ASSIG 
->>>>>>> parte2
 Pepe SOR 4
 Antonio FOL 5
 Ana SOR 8
