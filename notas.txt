@@ -1,4 +1,3 @@
-NOM ASSIG NOTA
 NOM ASSIG 
 Pepe SOR 4
 Antonio FOL 5
